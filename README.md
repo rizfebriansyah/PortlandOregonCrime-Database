@@ -42,4 +42,4 @@ Link to the web app is here: https://hub.labs.coursera.org:443/connect/sharedlmc
 
 **Running the web application:**  
 
-<img width="487" alt="portlandrunapp" src="https://user-images.githubusercontent.com/88428142/196219417-0f3fc963-94f3-4639-9ba2-2e447cc79e82.png">
+<img width="521" alt="portlandrunapp" src="https://user-images.githubusercontent.com/88428142/196220845-5bced0db-331b-4285-856e-7ef2ab3e272c.png">
