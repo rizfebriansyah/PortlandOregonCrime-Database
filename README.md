@@ -18,3 +18,28 @@ This makes it a fascinating dataset to work with because we can respond to inqui
 • Where are crimes most frequently committed? What types of crimes occur most frequently?  
 • Which areas are most likely to see particular crimes?  
 • Does the number of crimes fluctuate throughout the day? Month? Year? 
+
+A complete information on the overall steps done to make this web application can be found on the PDF report (DatabasesPortlandOregon_Report.pdf)
+
+Link to the web app is here: https://hub.labs.coursera.org:443/connect/sharedlmcdlyfx?forceRefresh=false&path=%2F%3Ffolder%3D%2Fhome%2Fcoder%2Fproject 
+
+=================================================================================  
+
+**Relational Schemas:**  
+
+<img width="534" alt="portlandrelationalschema" src="https://user-images.githubusercontent.com/88428142/196218957-7c17e7a5-1580-4604-a951-9f2b537b1dfa.png">
+
+**Entity Relationship Diagram (ERD) Diagram:**   
+
+<img width="534" alt="portlanderd" src="https://user-images.githubusercontent.com/88428142/196219122-2f12472f-6212-47fb-9e60-b4c286021b1d.png">
+
+**Cleaning the CSV file:**  
+
+<img width="534" alt="portlandclean1" src="https://user-images.githubusercontent.com/88428142/196219344-e33c5f78-f0fb-40ba-ba9d-da0f9e25972d.png">
+<img width="534" alt="portlandclean2" src="https://user-images.githubusercontent.com/88428142/196219241-1c2f5d35-9199-4b1d-baab-f504acbd19e5.png">
+<img width="534" alt="portlandclean3" src="https://user-images.githubusercontent.com/88428142/196219249-56511683-de6d-4202-9ab5-b207a6a968eb.png">
+<img width="534" alt="portlandclean4" src="https://user-images.githubusercontent.com/88428142/196219260-cb797d74-a232-482c-89fc-f5a0ae717d2b.png">
+
+**Running the web application:**  
+
+<img width="487" alt="portlandrunapp" src="https://user-images.githubusercontent.com/88428142/196219417-0f3fc963-94f3-4639-9ba2-2e447cc79e82.png">
