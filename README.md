@@ -19,7 +19,9 @@ This makes it a fascinating dataset to work with because we can respond to inqui
 • Which areas are most likely to see particular crimes?  
 • Does the number of crimes fluctuate throughout the day? Month? Year? 
 
-A complete information on the overall steps done to make this web application can be found on the PDF report (DatabasesPortlandOregon_Report.pdf)
+A complete information on the overall steps done to make this web application can be found on the PDF report 
+[DatabasesPortlandOregon_Report.pdf](https://github.com/rizfebriansyah/PortlandOregonCrime-Database/files/9802220/DatabasesPortlandOregon_Report.pdf)
+
 
 Link to the web app is here: https://hub.labs.coursera.org:443/connect/sharedlmcdlyfx?forceRefresh=false&path=%2F%3Ffolder%3D%2Fhome%2Fcoder%2Fproject 
 
